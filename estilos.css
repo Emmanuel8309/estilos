@@ -1,0 +1,27 @@
+/* */
+/* agregar la etiqueta sobre la que voy a trabajar
+y sus modificacciones van dentro de un curly braces*/
+h1{
+    /* primero la propiedad a cambiar y posteriormente el valor finalizo
+    en; */
+    color: red;
+}
+p{
+    color: blue;
+    font-size: 20pt ;
+
+}
+/*selectores*/
+
+/* selectopres ID*/
+#ejemplo-h1{
+    color: burlywood;
+    font-size: 30pt;
+}
+/* selectores universal*/
+*#warning{
+
+}
+*.warning{
+    
+}
